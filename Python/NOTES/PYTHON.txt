@@ -1,0 +1,4 @@
+PYTHON
+
+print name[0].capitalize()
+print name[0:-1] start at one, end at last (ie when the range passes it's last valid char, it will stop reading and return -1 

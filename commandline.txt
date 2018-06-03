@@ -1,0 +1,10 @@
+cp -r <src> <dest> 
+recursive, copies the entire directory
+mv <orig> <dest>
+show full content of file -- cat <file>
+
+--grep, searches for lines containing a pattern. grep "Durs" hp_book1.txt
+cat hp+book1.txt | grep Dursley
+
+cat hp_book1.txt | grep "harry"
+--find "harry" inside the contents of hp_book1.txt (and cat will show)
